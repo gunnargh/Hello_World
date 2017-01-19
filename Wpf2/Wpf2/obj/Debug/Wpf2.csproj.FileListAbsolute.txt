@@ -1,0 +1,15 @@
+D:\dmo160x\projekter\wpf2\Wpf2\Wpf2\bin\Debug\Wpf2.exe.config
+C:\Users\gunna\Desktop\School\Semester 2\Week 3\Wpf2\Wpf2\bin\Debug\Wpf2.exe.config
+C:\Users\gunna\Desktop\School\Semester 2\Week 3\Wpf2\Wpf2\bin\Debug\Wpf2.exe
+C:\Users\gunna\Desktop\School\Semester 2\Week 3\Wpf2\Wpf2\bin\Debug\Wpf2.pdb
+C:\Users\gunna\Desktop\School\Semester 2\Week 3\Wpf2\Wpf2\obj\Debug\MainWindow.g.cs
+C:\Users\gunna\Desktop\School\Semester 2\Week 3\Wpf2\Wpf2\obj\Debug\App.g.cs
+C:\Users\gunna\Desktop\School\Semester 2\Week 3\Wpf2\Wpf2\obj\Debug\Wpf2_MarkupCompile.cache
+C:\Users\gunna\Desktop\School\Semester 2\Week 3\Wpf2\Wpf2\obj\Debug\Wpf2_MarkupCompile.lref
+C:\Users\gunna\Desktop\School\Semester 2\Week 3\Wpf2\Wpf2\obj\Debug\MainWindow.baml
+C:\Users\gunna\Desktop\School\Semester 2\Week 3\Wpf2\Wpf2\obj\Debug\Wpf2.g.resources
+C:\Users\gunna\Desktop\School\Semester 2\Week 3\Wpf2\Wpf2\obj\Debug\Wpf2.Properties.Resources.resources
+C:\Users\gunna\Desktop\School\Semester 2\Week 3\Wpf2\Wpf2\obj\Debug\Wpf2.csproj.GenerateResource.Cache
+C:\Users\gunna\Desktop\School\Semester 2\Week 3\Wpf2\Wpf2\obj\Debug\Wpf2.exe
+C:\Users\gunna\Desktop\School\Semester 2\Week 3\Wpf2\Wpf2\obj\Debug\Wpf2.pdb
+C:\Users\gunna\Desktop\School\Semester 2\Week 3\Wpf2\Wpf2\obj\Debug\Wpf2.csprojResolveAssemblyReference.cache

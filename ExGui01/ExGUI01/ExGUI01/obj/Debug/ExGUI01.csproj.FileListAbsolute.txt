@@ -1,0 +1,14 @@
+C:\Users\gunna\Desktop\School\Semester 2\Week 3\ExGui01\ExGUI01\ExGUI01\bin\Debug\ExGUI01.exe.config
+C:\Users\gunna\Desktop\School\Semester 2\Week 3\ExGui01\ExGUI01\ExGUI01\bin\Debug\ExGUI01.exe
+C:\Users\gunna\Desktop\School\Semester 2\Week 3\ExGui01\ExGUI01\ExGUI01\bin\Debug\ExGUI01.pdb
+C:\Users\gunna\Desktop\School\Semester 2\Week 3\ExGui01\ExGUI01\ExGUI01\obj\Debug\ExGUI01.csprojResolveAssemblyReference.cache
+C:\Users\gunna\Desktop\School\Semester 2\Week 3\ExGui01\ExGUI01\ExGUI01\obj\Debug\MainWindow.g.cs
+C:\Users\gunna\Desktop\School\Semester 2\Week 3\ExGui01\ExGUI01\ExGUI01\obj\Debug\App.g.cs
+C:\Users\gunna\Desktop\School\Semester 2\Week 3\ExGui01\ExGUI01\ExGUI01\obj\Debug\ExGUI01_MarkupCompile.cache
+C:\Users\gunna\Desktop\School\Semester 2\Week 3\ExGui01\ExGUI01\ExGUI01\obj\Debug\ExGUI01_MarkupCompile.lref
+C:\Users\gunna\Desktop\School\Semester 2\Week 3\ExGui01\ExGUI01\ExGUI01\obj\Debug\MainWindow.baml
+C:\Users\gunna\Desktop\School\Semester 2\Week 3\ExGui01\ExGUI01\ExGUI01\obj\Debug\ExGUI01.g.resources
+C:\Users\gunna\Desktop\School\Semester 2\Week 3\ExGui01\ExGUI01\ExGUI01\obj\Debug\ExGUI01.Properties.Resources.resources
+C:\Users\gunna\Desktop\School\Semester 2\Week 3\ExGui01\ExGUI01\ExGUI01\obj\Debug\ExGUI01.csproj.GenerateResource.Cache
+C:\Users\gunna\Desktop\School\Semester 2\Week 3\ExGui01\ExGUI01\ExGUI01\obj\Debug\ExGUI01.exe
+C:\Users\gunna\Desktop\School\Semester 2\Week 3\ExGui01\ExGUI01\ExGUI01\obj\Debug\ExGUI01.pdb

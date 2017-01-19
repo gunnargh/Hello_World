@@ -1,0 +1,20 @@
+﻿<Window x:Class="ExGUI01.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExGUI01"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="23" Margin="148,101,0,0" TextWrapping="Wrap" Text="line1" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox2" HorizontalAlignment="Left" Height="23" Margin="148,129,0,0" TextWrapping="Wrap" Text="line2" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox3" HorizontalAlignment="Left" Height="23" Margin="148,157,0,0" TextWrapping="Wrap" Text="line3" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox4" HorizontalAlignment="Left" Height="23" Margin="148,185,0,0" TextWrapping="Wrap" Text="line4" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="button_scrollup" Content="Scroll up" HorizontalAlignment="Left" Margin="331,114,0,0" VerticalAlignment="Top" Width="75" />
+        <Button x:Name="button_clear" Content="Clear" HorizontalAlignment="Left" Margin="331,142,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="button_scrolldown" Content="Scroll down" HorizontalAlignment="Left" Margin="331,184,0,0" VerticalAlignment="Top" Width="75" />
+        <Button x:Name="button_scrolldown_Copy" Content="Scroll down" HorizontalAlignment="Left" Margin="331,184,0,0" VerticalAlignment="Top" Width="75" />
+
+    </Grid>
+</Window>
