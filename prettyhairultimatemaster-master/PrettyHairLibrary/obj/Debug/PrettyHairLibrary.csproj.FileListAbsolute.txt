@@ -1,0 +1,5 @@
+C:\Users\gunna\Desktop\School\Semester 2\prettyhairultimatemaster-master\PrettyHairLibrary\bin\Debug\PrettyHairLibrary.dll
+C:\Users\gunna\Desktop\School\Semester 2\prettyhairultimatemaster-master\PrettyHairLibrary\bin\Debug\PrettyHairLibrary.pdb
+C:\Users\gunna\Desktop\School\Semester 2\prettyhairultimatemaster-master\PrettyHairLibrary\obj\Debug\PrettyHairLibrary.csprojResolveAssemblyReference.cache
+C:\Users\gunna\Desktop\School\Semester 2\prettyhairultimatemaster-master\PrettyHairLibrary\obj\Debug\PrettyHairLibrary.dll
+C:\Users\gunna\Desktop\School\Semester 2\prettyhairultimatemaster-master\PrettyHairLibrary\obj\Debug\PrettyHairLibrary.pdb

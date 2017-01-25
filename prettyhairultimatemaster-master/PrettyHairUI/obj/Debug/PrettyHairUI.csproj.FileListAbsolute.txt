@@ -1,0 +1,16 @@
+C:\Users\gunna\Desktop\School\Semester 2\prettyhairultimatemaster-master\PrettyHairUI\bin\Debug\PrettyHairUI.exe.config
+C:\Users\gunna\Desktop\School\Semester 2\prettyhairultimatemaster-master\PrettyHairUI\bin\Debug\PrettyHairUI.exe
+C:\Users\gunna\Desktop\School\Semester 2\prettyhairultimatemaster-master\PrettyHairUI\bin\Debug\PrettyHairUI.pdb
+C:\Users\gunna\Desktop\School\Semester 2\prettyhairultimatemaster-master\PrettyHairUI\bin\Debug\PrettyHairLibrary.dll
+C:\Users\gunna\Desktop\School\Semester 2\prettyhairultimatemaster-master\PrettyHairUI\bin\Debug\PrettyHairLibrary.pdb
+C:\Users\gunna\Desktop\School\Semester 2\prettyhairultimatemaster-master\PrettyHairUI\obj\Debug\PrettyHairUI.csprojResolveAssemblyReference.cache
+C:\Users\gunna\Desktop\School\Semester 2\prettyhairultimatemaster-master\PrettyHairUI\obj\Debug\MainWindow.g.cs
+C:\Users\gunna\Desktop\School\Semester 2\prettyhairultimatemaster-master\PrettyHairUI\obj\Debug\App.g.cs
+C:\Users\gunna\Desktop\School\Semester 2\prettyhairultimatemaster-master\PrettyHairUI\obj\Debug\PrettyHairUI_MarkupCompile.cache
+C:\Users\gunna\Desktop\School\Semester 2\prettyhairultimatemaster-master\PrettyHairUI\obj\Debug\PrettyHairUI_MarkupCompile.lref
+C:\Users\gunna\Desktop\School\Semester 2\prettyhairultimatemaster-master\PrettyHairUI\obj\Debug\MainWindow.baml
+C:\Users\gunna\Desktop\School\Semester 2\prettyhairultimatemaster-master\PrettyHairUI\obj\Debug\PrettyHairUI.g.resources
+C:\Users\gunna\Desktop\School\Semester 2\prettyhairultimatemaster-master\PrettyHairUI\obj\Debug\PrettyHairUI.Properties.Resources.resources
+C:\Users\gunna\Desktop\School\Semester 2\prettyhairultimatemaster-master\PrettyHairUI\obj\Debug\PrettyHairUI.csproj.GenerateResource.Cache
+C:\Users\gunna\Desktop\School\Semester 2\prettyhairultimatemaster-master\PrettyHairUI\obj\Debug\PrettyHairUI.exe
+C:\Users\gunna\Desktop\School\Semester 2\prettyhairultimatemaster-master\PrettyHairUI\obj\Debug\PrettyHairUI.pdb

@@ -1,0 +1,8 @@
+C:\Users\gunna\Desktop\School\Semester 2\prettyhairultimatemaster-master\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\gunna\Desktop\School\Semester 2\prettyhairultimatemaster-master\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\gunna\Desktop\School\Semester 2\prettyhairultimatemaster-master\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\gunna\Desktop\School\Semester 2\prettyhairultimatemaster-master\ConsoleApplication\bin\Debug\PrettyHairLibrary.dll
+C:\Users\gunna\Desktop\School\Semester 2\prettyhairultimatemaster-master\ConsoleApplication\bin\Debug\PrettyHairLibrary.pdb
+C:\Users\gunna\Desktop\School\Semester 2\prettyhairultimatemaster-master\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\gunna\Desktop\School\Semester 2\prettyhairultimatemaster-master\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\gunna\Desktop\School\Semester 2\prettyhairultimatemaster-master\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
