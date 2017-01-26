@@ -40,6 +40,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controller.cs" />
+    <Compile Include="Customer.cs" />
+    <Compile Include="CustomerRepository.cs" />
+    <Compile Include="DBFacade.cs" />
+    <Compile Include="OrderLine.cs" />
     <Compile Include="SendMail.cs" />
     <Compile Include="Order.cs" />
     <Compile Include="OrderRepository.cs" />

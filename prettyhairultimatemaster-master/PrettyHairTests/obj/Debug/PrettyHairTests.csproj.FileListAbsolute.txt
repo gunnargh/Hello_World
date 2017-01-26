@@ -1,1 +1,2 @@
 C:\Users\gunna\Desktop\School\Semester 2\prettyhairultimatemaster-master\PrettyHairTests\obj\Debug\PrettyHairTests.csprojResolveAssemblyReference.cache
+C:\Users\gunna\Desktop\prettyhairultimatemaster-master\PrettyHairTests\obj\Debug\PrettyHairTests.csprojResolveAssemblyReference.cache

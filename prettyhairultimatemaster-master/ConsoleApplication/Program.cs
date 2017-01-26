@@ -13,7 +13,7 @@ namespace CLI
     {
         private MenuDelegate menu;
         private bool isRunning;
-        private ProductTypeRepository pr = new ProductTypeRepository();
+        private ProductTypeRepository pr = ProductTypeRepository.Instance;
         private Menu m; 
 
         static void Main(string[] args)

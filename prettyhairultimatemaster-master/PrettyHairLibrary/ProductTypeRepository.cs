@@ -9,6 +9,23 @@ namespace PrettyHairLibrary
 
     public class ProductTypeRepository
     {
+
+        private static ProductTypeRepository instance;
+
+        private ProductTypeRepository() { }
+
+        public static ProductTypeRepository Instance
+        {
+            get
+            {
+                if (instance == null)
+                {
+                    instance = new ProductTypeRepository();
+                }
+                return instance;
+            }
+        }
+
         Dictionary<int, ProductType> _productTypes = new Dictionary<int, ProductType>();
 
         public void Delete(int key)
@@ -22,11 +39,23 @@ namespace PrettyHairLibrary
             _productTypes.Add(product.ID, product);
         }
 
+        public ProductType CreateProduct(int id, double price, string description, int amount)
+        {
+            ProductType product = new ProductType(id, description, price, amount);
+            _productTypes.Add(id, product);
+            return product;
+        }
+
         public ProductType GetProduct(int key)
         {
             ProductType p = null;
             if (_productTypes.ContainsKey(key)) p = _productTypes[key];
             return p;
+        }
+
+        public void Clear()
+        {
+            _productTypes.Clear();
         }
 
         public void AdjustPrice(int key, double newPrice)

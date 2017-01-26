@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Data.SqlClient;
 using PrettyHairLibrary;
 
-namespace ConsoleApplication
+namespace PrettyHairLibrary
 {
     public class DBFacade
     {
-        private static SqlConnection conn = new SqlConnection("Server=ealdb1.eal.local; Database=ejl69_db; User Id=ejl69_usr; Password=Baz1nga769");
+        private static SqlConnection conn = new SqlConnection("Server=ealdb1.eal.local; Database=ejl69_db; User Id=ejl69_usr; Password=Baz1nga69");
 
         public static void ChangeProductPrice(int productId, float newPrice)
         {

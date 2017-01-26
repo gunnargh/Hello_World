@@ -13,6 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using PrettyHairLibrary;
+using System.Collections.ObjectModel;
 
 namespace PrettyHairUI
 {
@@ -21,26 +22,42 @@ namespace PrettyHairUI
     /// </summary>
     public partial class MainWindow : Window
     {
+
+        public ObservableCollection<ProductType> prod = new ObservableCollection<ProductType>();
+
+        public ObservableCollection<Customer> cust = new ObservableCollection<Customer>();
+        Controller ctrl = new Controller();
+
         public MainWindow()
         {
             InitializeComponent();
+            ctrl.InitializeRepositories();
             
-
+            
         }
 
-        private void Grid_Loaded(object sender, RoutedEventArgs e)
+        private void TabItem_Loaded(object sender, RoutedEventArgs e)
         {
-
-            ProductType p = new ProductType(1, "hello", 12, 5);
-
-            ProductType p1 = new ProductType(2, "hello11", 121, 15);
-            ProductTypeRepository ptr = new ProductTypeRepository();
-            foreach (ProductType pe in ptr.load())
+            foreach (KeyValuePair<int, ProductType> p in ctrl.GetProductList())
             {
-                ptr.Add(pe);
+                prod.Add(p.Value);
             }
+            lstNames.ItemsSource = prod;
+        }
 
-            dataGrid.DataContext = ptr;
+        private void TabItem_Loaded_1(object sender, RoutedEventArgs e)
+        {
+            foreach (KeyValuePair<int, Customer> p in ctrl.GetcustomerList())
+            {
+                cust.Add(p.Value);
+            }
+            lstNamesCustomers.ItemsSource = cust;
+        }
+
+        private void btnDelete_Click(object sender, RoutedEventArgs e)
+        {
+            Customer cust = (Customer)lstNames.SelectedItem;
+            
         }
     }
 }
